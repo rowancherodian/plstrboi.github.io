@@ -101,7 +101,7 @@ a {
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   #main {
-	  width: 80%;
+	  width: 90%;
 	  top:100px;
   }
   
